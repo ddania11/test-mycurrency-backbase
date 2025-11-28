@@ -157,4 +157,3 @@ The project includes the Django Admin interface for management and configuration
 ### 📦 DevOps
 - **Docker Compose**: Create a `docker-compose.yml` for one-command setup of Django, Redis, and Celery.
 - **CI/CD**: Set up GitHub Actions for automated linting, testing, and deployment.
->>>>>>> e5dae47 (chore: Updates of project dependendecies, commands and project explanation)
