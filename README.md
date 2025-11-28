@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # test-mycurrency-backbase
-=======
 # MyCurrency API
 
 REST API for managing currency exchange rates with support for multiple providers, automatic fallback, and historical data backfilling.
